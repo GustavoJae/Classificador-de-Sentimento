@@ -18,4 +18,4 @@
 "Às vezes, o mundo parece um lugar sombrio e sem esperança.",
 "A solidão é uma companhia amarga e constante.",
 "A sensação de estar preso é sufocante e desesperadora.",
-"Meu cachorro é um terror"
+"Meu cachorro é um terror" 
